@@ -6,7 +6,6 @@ body{
 
     margin:0%;
     padding:0%;
-
     height: 100%;
 }
 .body-home{
@@ -119,6 +118,66 @@ overflow: hidden;
     margin-top: -7px;
     padding-left: 10px;
 }
+
+/*========drinks========*/
+#drinks{
+    padding-top: 50px;
+}
+/*=======drinks==========*/
+.drinks-list a{
+    text-decoration: none;
+}
+
+.drinks-list-item{
+    border: 5px solid #1a1a1a;
+    margin: 10px;
+}
+
+.drinks-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1a1a;
+    padding-left: 10px;
+}
+.drinks-list-item i{
+    float: right;
+    color: #1a1a1a;
+    padding-right: 20px;
+}
+
+/*========desserts========*/
+#desserts{
+    padding-top: 50px;
+}
+/*=======desserts==========*/
+.drinks-list a{
+    text-decoration: none;
+}
+
+.desserts-list-item{
+    border: 5px solid #1a1a1a;
+    margin: 10px;
+}
+
+.desserts-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1a1a;
+    padding-left: 10px;
+}
+.desserts-list-item i{
+    float: right;
+    color: #1a1a1a;
+    padding-right: 20px;
+}
+.desserts-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #4d4d4d4d;
+    margin-top: -7px;
+    padding-left: 10px;
+}
+
 
 /*========recipe page========*/
 #recipe{
